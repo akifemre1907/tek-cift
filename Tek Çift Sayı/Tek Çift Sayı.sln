@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tek Çift Sayı", "Tek Çift Sayı\Tek Çift Sayı.csproj", "{84D9D73A-ADCD-413B-B7CE-717E8BBE987B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D9D73A-ADCD-413B-B7CE-717E8BBE987B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D9D73A-ADCD-413B-B7CE-717E8BBE987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D9D73A-ADCD-413B-B7CE-717E8BBE987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D9D73A-ADCD-413B-B7CE-717E8BBE987B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D72248-B082-4C2F-9A24-371DF6CEE9D8}
+	EndGlobalSection
+EndGlobal

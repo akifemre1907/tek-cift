@@ -1,0 +1,15 @@
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\bin\Debug\net6.0\Tek Çift Sayı.exe
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\bin\Debug\net6.0\Tek Çift Sayı.deps.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\bin\Debug\net6.0\Tek Çift Sayı.runtimeconfig.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\bin\Debug\net6.0\Tek Çift Sayı.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\bin\Debug\net6.0\Tek Çift Sayı.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.csproj.AssemblyReference.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.AssemblyInfoInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.AssemblyInfo.cs
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.csproj.CoreCompileInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\refint\Tek Çift Sayı.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\Tek Çift Sayı.genruntimeconfig.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Tek Çift Sayı\Tek Çift Sayı\obj\Debug\net6.0\ref\Tek Çift Sayı.dll
